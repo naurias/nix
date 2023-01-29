@@ -1,0 +1,48 @@
+
+font:
+  normal:
+    family: FiraCode Nerd Font
+    style: Regular
+  bold:
+    family: FiraCode Nerd Font
+    style: Bold
+  italic: 
+    family: FiraCode Nerd Font
+    style: Italic
+  bold_italic:
+    family: FiraCode Nerd Font
+    style: Bold Italic
+  # Point size
+  size: 8
+
+
+
+
+
+colors:
+  # Default colors
+  primary:
+    background: '0x0c0e0f'
+    foreground: '0xedeff0'
+
+  # Normal colors
+  normal:
+    black:   '0x1c252c'
+    red:     '0xdf5b61'
+    green:   '0x78b892'
+    yellow:  '0xde8f78'
+    blue:    '0x6791c9'
+    magenta: '0xbc83e3'
+    cyan:    '0x67afc1'
+    white:   '0xd9d7d6'
+
+  # Bright colors
+  bright:
+    black:   '0x484e5b'
+    red:     '0xf16269'
+    green:   '0x8cd7aa'
+    yellow:  '0xe9967e'
+    blue:    '0x79aaeb'
+    magenta: '0xc488ec'
+    cyan:    '0x7acf34'
+    white:   '0xe5e5e5'
